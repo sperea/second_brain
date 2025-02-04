@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Bienvenido.md",
+                "file": "50_Diario/📚 Aprendizajes/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Bienvenido"
+              "title": "Sin título"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Bienvenido.md",
+                "file": "50_Diario/📚 Aprendizajes/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 00_Bienvenido"
+              "title": "Enlaces entrantes de Sin título"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Bienvenido.md",
+                "file": "50_Diario/📚 Aprendizajes/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 00_Bienvenido"
+              "title": "Enlaces salientes de Sin título"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Bienvenido.md",
+                "file": "50_Diario/📚 Aprendizajes/Sin título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 00_Bienvenido"
+              "title": "Esquema de Sin título"
             }
           },
           {
@@ -195,8 +195,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c548df569bd74fe",
+  "active": "778de07fa205a888",
   "lastOpenFiles": [
+    "50_Diario/📌 Reflexiones/Sin título.md",
+    "50_Diario/📚 Aprendizajes/Sin título.md",
+    "50_Diario/📋 Tareas/Sin título.md",
+    "30_Recursos/📝 Conceptos_Importantes`/Sin título.md",
+    "30_Recursos/📚 Artículos`/Sin título.md",
+    "30_Recursos/📖 Resúmenes_de_Libros`/Sin título.md",
+    "30_Recursos/🎧 Notas_de_Podcasts`/Sin título.md",
+    "20_Áreas/📖 Aprendizaje_Desarrollo`/Sin título.md",
+    "20_Áreas/💼 Trabajo/Sin título.md",
+    "20_Áreas/💪 Salud_Y_Bienestar`/Sin título.md",
+    "20_Áreas/👨‍👩‍👧 Paternidad`/Sin título.md",
+    "10_Proyectos/📂Personales/Sin título.md",
+    "10_Proyectos/📂 Desarrollo de Software/Sin título.md",
+    "10_Proyectos/💼 Trabajo/Sin título.md",
+    "00_Bienvenido.md",
     "10_Proyectos/💼 Trabajo/Sin nombre",
     "10_Proyectos/💼 Trabajo/Prueba de Gauss - Willis",
     "10_Proyectos/Developer/Sin nombre",
@@ -207,9 +222,7 @@
     "50_Diario/📋 Tareas",
     "50_Diario/📌 Reflexiones",
     "40_Archivo/Referencias antiguas",
-    "40_Archivo/Recursos anticuados",
     "30_Recursos/Sin título.md",
-    "00_Bienvenido.md",
     "30_Recursos/`🎧 Notas_de_Podcasts`.md"
   ]
 }
