@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_Diario/📚 Aprendizajes/Sin título.md",
+                "file": "01_inbox/Sin título.md",
                 "mode": "source",
                 "source": false
               },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50_Diario/📚 Aprendizajes/Sin título.md",
+                "file": "01_inbox/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50_Diario/📚 Aprendizajes/Sin título.md",
+                "file": "01_inbox/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50_Diario/📚 Aprendizajes/Sin título.md",
+                "file": "01_inbox/Sin título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,8 +197,9 @@
   },
   "active": "778de07fa205a888",
   "lastOpenFiles": [
-    "50_Diario/📌 Reflexiones/Sin título.md",
     "50_Diario/📚 Aprendizajes/Sin título.md",
+    "01_inbox/Sin título.md",
+    "50_Diario/📌 Reflexiones/Sin título.md",
     "50_Diario/📋 Tareas/Sin título.md",
     "30_Recursos/📝 Conceptos_Importantes`/Sin título.md",
     "30_Recursos/📚 Artículos`/Sin título.md",
